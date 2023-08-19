@@ -9,13 +9,26 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@reduxjs/toolkit": "^1.9.5",
     "autoprefixer": "10.4.15",
     "eslint": "8.47.0",
-    "eslint-config-next": "13.4.19",
-    "next": "13.4.19",
+    "eslint-config-next": "13.4.16",
+    "flowbite": "^1.8.1",
+    "flowbite-react": "^0.5.0",
+    "next": "13.4.16",
     "postcss": "8.4.28",
     "react": "18.2.0",
+    "react-chartjs-2": "^5.2.0",
     "react-dom": "18.2.0",
+    "react-icons": "^4.10.1",
+    "react-redux": "^8.1.2",
+    "react-toggle-switch": "^3.0.4",
+    "redux-logger": "^3.0.6",
+    "redux-saga": "^1.2.3",
+    "sweetalert2": "^11.7.23",
     "tailwindcss": "3.3.3"
+  },
+  "devDependencies": {
+    "daisyui": "^3.5.1"
   }
 }
